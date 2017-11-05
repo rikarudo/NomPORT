@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"lexicon","l":"Lexicon"},{"p":"lexicon","l":"LexiconLoadException"},{"p":"nominalization","l":"Nominalizer"},{"p":"examples","l":"NominalizerExample"},{"p":"replacement","l":"Replacement"}]
